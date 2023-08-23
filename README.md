@@ -1,5 +1,5 @@
 # Scratch
-![Scratch]()
+![Scratch](https://github.com/rafaelfelipe7/Scratch/blob/main/scratch.png)
 Introdução a lógica de programação com Scratch
 ## autor 
 Rafael Felipe
